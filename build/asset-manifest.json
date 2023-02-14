@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ylyiticassigment/static/css/main.fe6b40d4.css",
+    "main.js": "/ylyiticassigment/static/js/main.58880b5d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ylyiticassigment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ylyiticassigment/index.html",
+    "main.fe6b40d4.css.map": "/ylyiticassigment/static/css/main.fe6b40d4.css.map",
+    "main.58880b5d.js.map": "/ylyiticassigment/static/js/main.58880b5d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ylyiticassigment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe6b40d4.css",
+    "static/js/main.58880b5d.js"
+  ]
+}
