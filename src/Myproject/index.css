@@ -1,0 +1,129 @@
+.listofelemen{
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+.headingAndDetails{
+    width: 80%;
+    
+}
+.contentcontaienr{
+    padding-bottom: 100px;
+}
+.Maincontainer{
+    height: 100vh;
+    padding-bottom: 20px;
+}
+.arrowsymble{
+    height: 10px;
+    font-size: 20px;
+    width:10px;
+    color: black;
+}
+.line{
+    background-color: black;
+    height: 3px;
+    color: black;
+    padding-top: 0px;
+    margin-top: 10px;
+}
+.namesContainer{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+.headingAt{
+    width: 10%;
+    text-align: left;
+    
+}
+.headingAuthor{
+    width: 15%;
+    text-align: left;
+   
+}
+.headingLike{
+    width: 10%;
+    text-align: left;
+
+}
+.nameButtoncontainer{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.buttoncontainer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.headingReplay{
+    width: 10%;
+    text-align: left;
+ 
+}
+.button{
+    border: none;
+    background-color: transparent;
+    padding: 0px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.headingText{
+    width: 40%;
+    text-align: left;
+
+}
+.heading{
+    font-weight: 600;
+    margin: 0px;
+}
+.text{
+    font-size: 13px;
+}
+.searchselectoption{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.selectcontainer{
+    width: 200px;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: black;
+}
+.buttonpagination{
+    background-color: transparent;
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+}
+.btn1{
+    height: 36px;
+    width: 36px;
+}
+.btncolor{
+    background-color: aqua;
+}
+.paginationcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.paginationcontainer2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
