@@ -40,7 +40,6 @@ class Myproject extends Component {
         a += 1;
         newList.push(k);
       }
-
       this.setState({
         totalList: newList,
         mainList: newList,
